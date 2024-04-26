@@ -4,7 +4,7 @@ namespace TotalCommander
     public partial class Form1 : Form
     {
         const int max_folders = 1000;
-        const int max_files = 1000;
+        const  int max_files = 1000;
 
         const int path_label_size = 100;
         string current_directory_left = "C:/";
